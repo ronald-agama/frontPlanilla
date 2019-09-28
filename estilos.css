@@ -1,0 +1,16 @@
+.texto{
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.formulario{
+    height: 80%;
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+    border: PowderBlue 5px solid;
+    border-radius: 20px;
+    padding-bottom: 10px;
+     
+}
